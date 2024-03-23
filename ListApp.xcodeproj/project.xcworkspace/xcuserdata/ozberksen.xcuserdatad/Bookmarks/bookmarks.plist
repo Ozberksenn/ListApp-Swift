@@ -3,54 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>top-level-items</key>
-	<array>
-		<dict>
-			<key>destination</key>
-			<dict>
-				<key>location-parameters</key>
-				<dict>
-					<key>EndingColumnNumber</key>
-					<string>0</string>
-					<key>EndingLineNumber</key>
-					<string>48</string>
-					<key>StartingColumnNumber</key>
-					<string>0</string>
-					<key>StartingLineNumber</key>
-					<string>47</string>
-					<key>Timestamp</key>
-					<string>732749387.046505</string>
-				</dict>
-				<key>rebasable-url</key>
-				<dict>
-					<key>base</key>
-					<string>workspace</string>
-					<key>payload</key>
-					<dict>
-						<key>relative-path</key>
-						<string>ListApp/Controllers/ViewController.swift</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>text-context</key>
-			<dict>
-				<key>focused</key>
-				<string>    func presentAddAlert(){
-</string>
-				<key>leading</key>
-				<string>    
-    
-</string>
-				<key>trailing</key>
-				<string>        presentAlert(title: "Add a new item", message: "Do you want to new item ?", cancelButtonTitle: "NO",defaultButtonTitle: "YES",defaultButtonHandler: {_ in
-            let text = self.alertController.textFields?.first?.text
-            if text != "" {
-</string>
-			</dict>
-			<key>title</key>
-			<string>This is a test</string>
-			<key>type</key>
-			<string>bookmark</string>
-		</dict>
-	</array>
+	<array/>
 </dict>
 </plist>
